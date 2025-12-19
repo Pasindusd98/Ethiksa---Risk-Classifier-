@@ -1,0 +1,12 @@
+pandas
+numpy
+sentence-transformers
+cross-encoder
+faiss-cpu
+scikit-learn
+transformers
+scipy
+pymupdf
+pytesseract
+pillow
+opencv-python
